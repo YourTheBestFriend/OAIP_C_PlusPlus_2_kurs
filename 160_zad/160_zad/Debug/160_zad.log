@@ -1,0 +1,16 @@
+﻿  Case_1.cpp
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(827,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(835,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(843,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(851,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(859,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(867,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(875,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(883,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(891,21): warning C4018: <: несоответствие типов со знаком и без знака
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(904,37): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(986,31): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(369): warning C4715: arifm_vicheslen: значение возвращается не при всех путях выполнения
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(387): warning C4715: colvo_edenic_metr: значение возвращается не при всех путях выполнения
+F:\#WORK from college\ОАиП\160_zad\160_zad\Case_1.cpp(405): warning C4715: _edenic_massi: значение возвращается не при всех путях выполнения
+  160_zad.vcxproj -> F:\#WORK from college\ОАиП\160_zad\Debug\160_zad.exe

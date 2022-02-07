@@ -1,0 +1,41 @@
+  Kursach.RegistrationForm.resources - Embedded, ContainedInManifestFile, 
+  Kursach.SecondFormForGraph.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Kursach, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Kursach.SecondFormForGraph: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    get_flagg(): PrivateScope, Public, HideBySig
+    get_FLAG_for_minus_vershin_cheak(): PrivateScope, Public, HideBySig
+    get_default_versh(): PrivateScope, Public, HideBySig
+    get_flagColvoVershin(): PrivateScope, Public, HideBySig
+    get_flagVolvoVershin_rezerv(): PrivateScope, Public, HideBySig
+    get_flagColvoReber(): PrivateScope, Public, HideBySig
+    get_flag_for_size_form(): PrivateScope, Public, HideBySig
+    get_flag_for_size_setting(): PrivateScope, Public, HideBySig
+    set_flagg(Int32): PrivateScope, Public, HideBySig
+    set_FLAG_for_minus_vershin_cheak(Int32): PrivateScope, Public, HideBySig
+    set_default_versh(Int32): PrivateScope, Public, HideBySig
+    set_flagColvoVershin(Int32): PrivateScope, Public, HideBySig
+    set_flagVolvoVershin_rezerv(Int32): PrivateScope, Public, HideBySig
+    set_flagColvoReber(Int32): PrivateScope, Public, HideBySig
+    set_flag_for_size_form(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    set_flag_for_size_setting(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    kratchaichi_put(basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig
+Class Kursach.RegistrationForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

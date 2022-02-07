@@ -1,0 +1,4 @@
+﻿  Задание_1.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_14\Задание_1\Задание_1.cpp(36,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_14\Задание_1\Задание_1.cpp(46,29): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Задание_1.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_14\Debug\Задание_1.exe

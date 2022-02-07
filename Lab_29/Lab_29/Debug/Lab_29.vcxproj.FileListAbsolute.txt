@@ -1,0 +1,4 @@
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\Debug\Lab_29.vcxprojAssemblyReference.cache
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\Debug\Lab_29.vcxproj.ResolveComReference.cache
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\Debug\Lab29.MyForm.resources
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\Debug\Lab_29.vcxproj.GenerateResource.cache

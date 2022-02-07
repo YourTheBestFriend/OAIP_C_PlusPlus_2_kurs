@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2805,5): warning MSB3288: ссылка COM "{238aa1ac-786f-4c17-baab-253670b449b9}" конфликтует со ссылкой "ONAddInForWord.1.0" — проект ссылается на библиотеки другого типа с именами библиотек такого же типа. Пропускается ссылка "{238aa1ac-786f-4c17-baab-253670b449b9}".
+  MyForm.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(138): warning C4309: инициализация: усечение константного значения
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(138): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::_Document " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(138): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Document " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(159): warning C4309: инициализация: усечение константного значения
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(159): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Selection " из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+F:\#WORK from college\ОАиП\Labs\Lab_29\Lab_29\MyForm.h(192,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab_29.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_29\Debug\Lab_29.exe

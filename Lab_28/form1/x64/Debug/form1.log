@@ -1,0 +1,8 @@
+﻿  Lab28.cpp
+  MyForm.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_28\form1\MyForm.cpp(6,1): error C2084: функция "void form1::MyForm::button1_Click(System::Object ^,System::EventArgs ^)" уже имеет текст реализации
+F:\#WORK from college\ОАиП\Labs\Lab_28\form1\MyForm.h(102): message : см. предыдущее определение "button1_Click"
+  MyForm1.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_28\form1\MyForm1.cpp(12,1): error C2084: функция "void form1::MyForm1::button1_Click(System::Object ^,System::EventArgs ^)" уже имеет текст реализации
+F:\#WORK from college\ОАиП\Labs\Lab_28\form1\MyForm1.h(99): message : см. предыдущее определение "button1_Click"
+  Создание кода...

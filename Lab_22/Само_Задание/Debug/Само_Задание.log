@@ -1,0 +1,4 @@
+﻿  Задание.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_22\Само_Задание\Задание.cpp(161,11): warning C4101: y: неиспользованная локальная переменная
+F:\#WORK from college\ОАиП\Labs\Lab_22\Само_Задание\Задание.cpp(161,13): warning C4101: c: неиспользованная локальная переменная
+  Само_Задание.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_22\Debug\Само_Задание.exe

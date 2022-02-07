@@ -1,0 +1,3 @@
+﻿  Задание_1.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_25\Lab_25\Задание_1.cpp(122,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab_25.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_25\Debug\Lab_25.exe

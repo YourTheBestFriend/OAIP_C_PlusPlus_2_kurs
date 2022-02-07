@@ -1,0 +1,9 @@
+﻿  RegistrationForm.cpp
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\SecondFormForGraph.h(1307,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\SecondFormForGraph.h(1307,55): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  SecondFormForGraph.cpp
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\SecondFormForGraph.h(1307,27): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\SecondFormForGraph.h(1307,55): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+  Создание кода...
+  RegistrationForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursach.vcxproj -> F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\x64\Debug\Kursach.exe

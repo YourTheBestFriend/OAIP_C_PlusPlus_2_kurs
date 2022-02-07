@@ -1,0 +1,4 @@
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\x64\Release\Kursach.vcxprojAssemblyReference.cache
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\x64\Release\Kursach.RegistrationForm.resources
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\x64\Release\Kursach.SecondFormForGraph.resources
+F:\#WORK from college\ОАиП\Labs\Курсач_Графы_Алгоритм_Дейкстры\Kursach\x64\Release\Kursach.vcxproj.GenerateResource.cache

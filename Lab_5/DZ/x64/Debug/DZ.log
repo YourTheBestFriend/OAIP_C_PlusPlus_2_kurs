@@ -1,0 +1,6 @@
+﻿  DZ_random.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_5\DZ\DZ_random.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_5\DZ\DZ_random.cpp(24,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_5\DZ\DZ_random.cpp(24,30): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_5\DZ\DZ_random.cpp(86,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_5\x64\Debug\DZ.exe

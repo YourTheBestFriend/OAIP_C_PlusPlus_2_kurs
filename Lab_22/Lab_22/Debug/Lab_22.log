@@ -1,0 +1,8 @@
+﻿  Задание_1.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(53,7): warning C4244: =: преобразование "float" в "short", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(98,36): warning C4305: аргумент: усечение из "double" в "float"
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(99,32): error C2661: Grandchild3::Grandchild3: нет перегруженной функции, принимающей 4 аргументов
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(100): error C2280: "Grandchild3::Grandchild3(void)": предпринята попытка ссылки на удаленную функцию
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(83): message : в этом месте создано компилятором: "Grandchild3::Grandchild3"
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(83,1): message : "Grandchild3::Grandchild3(void)": функция неявно удалена, так как в базовый класс "Child3" не содержится соответствующий конструктор по умолчанию или разрешение перегрузки было неоднозначным.
+F:\#WORK from college\ОАиП\Labs\Lab_22\Lab_22\Задание_1.cpp(46): message : см. объявление "Child3"

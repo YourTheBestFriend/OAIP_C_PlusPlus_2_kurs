@@ -1,0 +1,4 @@
+﻿  Задание_5.cpp
+F:\#WORK from college\ОАиП\Labs\Lab_7\Задание_5\Задание_5.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\#WORK from college\ОАиП\Labs\Lab_7\Задание_5\Задание_5.cpp(22,39): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+  Задание_5.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_7\Debug\Задание_5.exe

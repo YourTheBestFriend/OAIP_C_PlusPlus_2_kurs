@@ -1,3 +1,0 @@
-F:\#WORK from college\ОАиП\Lab_26\Lab_26\Debug\Lab_26.vcxprojAssemblyReference.cache
-F:\#WORK from college\ОАиП\Lab_26\Lab_26\Debug\Lab26.MyForm.resources
-F:\#WORK from college\ОАиП\Lab_26\Lab_26\Debug\Lab_26.vcxproj.GenerateResource.cache

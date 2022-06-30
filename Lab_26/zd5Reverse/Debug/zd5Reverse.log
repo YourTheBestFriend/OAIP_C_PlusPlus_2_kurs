@@ -1,5 +1,0 @@
-﻿  MyForm1.cpp
-F:\#WORK from college\ОАиП\Lab_26\zd5Reverse\MyForm1.h(307,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-F:\#WORK from college\ОАиП\Lab_26\zd5Reverse\MyForm1.h(323,1): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
-  MyForm1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  zd5Reverse.vcxproj -> F:\#WORK from college\ОАиП\Lab_26\Debug\zd5Reverse.exe

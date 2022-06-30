@@ -1,4 +1,0 @@
-F:\#WORK from college\ОАиП\Labs\Lab_28\form1\x64\Debug\form1.vcxprojAssemblyReference.cache
-F:\#WORK from college\ОАиП\Labs\Lab_28\form1\x64\Debug\form1.MyForm.resources
-F:\#WORK from college\ОАиП\Labs\Lab_28\form1\x64\Debug\form1.MyForm1.resources
-F:\#WORK from college\ОАиП\Labs\Lab_28\form1\x64\Debug\form1.vcxproj.GenerateResource.cache

@@ -1,3 +1,0 @@
-F:\#WORK from college\ОАиП\Lab_26\zd5Reverse\Debug\zd5Reverse.vcxprojAssemblyReference.cache
-F:\#WORK from college\ОАиП\Lab_26\zd5Reverse\Debug\zd5Reverse.MyForm1.resources
-F:\#WORK from college\ОАиП\Lab_26\zd5Reverse\Debug\zd5Reverse.vcxproj.GenerateResource.cache

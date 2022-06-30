@@ -1,4 +1,0 @@
-﻿  Source.cpp
-F:\#WORK from college\ОАиП\Labs\Lab_23\Lab_23\Source.cpp(174,12): warning C4101: y: неиспользованная локальная переменная
-F:\#WORK from college\ОАиП\Labs\Lab_23\Lab_23\Source.cpp(174,15): warning C4101: c: неиспользованная локальная переменная
-  Lab_23.vcxproj -> F:\#WORK from college\ОАиП\Labs\Lab_23\x64\Debug\Lab_23.exe
